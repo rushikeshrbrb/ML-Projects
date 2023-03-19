@@ -2,4 +2,9 @@ pandas
 numpy
 seaborn
 matplotlib
+neighbors
+catboost
+xgboost 
+dill
+flask
 -e .
